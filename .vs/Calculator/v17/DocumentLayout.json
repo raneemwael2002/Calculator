@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Game Development\\C\u002B\u002B\\calc\\Calculator\\",
+  "WorkspaceRootPath": "E:\\Game dev\\OOP\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Game Development\\C\u002B\u002B\\calc\\Calculator\\calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game dev\\OOP\\Calculator\\calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Game Development\\C\u002B\u002B\\calc\\Calculator\\MultiplyAndAdd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game dev\\OOP\\Calculator\\MultiplyAndAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiplyAndAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game dev\\OOP\\Calculator\\powermodulus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:powermodulus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game dev\\OOP\\Calculator\\MultiplyAndAdd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiplyAndAdd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Game Development\\C\u002B\u002B\\calc\\Calculator\\MultiplyAndAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiplyAndAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game dev\\OOP\\Calculator\\subsum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:subsum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,25 +91,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "powermodulus.cpp",
+              "DocumentMoniker": "E:\\Game dev\\OOP\\Calculator\\powermodulus.cpp",
+              "RelativeDocumentMoniker": "powermodulus.cpp",
+              "ToolTip": "E:\\Game dev\\OOP\\Calculator\\powermodulus.cpp",
+              "RelativeToolTip": "powermodulus.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T11:30:42.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "subsum.cpp",
+              "DocumentMoniker": "E:\\Game dev\\OOP\\Calculator\\subsum.cpp",
+              "RelativeDocumentMoniker": "subsum.cpp",
+              "ToolTip": "E:\\Game dev\\OOP\\Calculator\\subsum.cpp",
+              "RelativeToolTip": "subsum.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T11:28:54.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MultiplyAndAdd.cpp",
-              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\calc\\Calculator\\MultiplyAndAdd.cpp",
+              "DocumentMoniker": "E:\\Game dev\\OOP\\Calculator\\MultiplyAndAdd.cpp",
               "RelativeDocumentMoniker": "MultiplyAndAdd.cpp",
-              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\calc\\Calculator\\MultiplyAndAdd.cpp [Read Only]",
+              "ToolTip": "E:\\Game dev\\OOP\\Calculator\\MultiplyAndAdd.cpp [Read Only]",
               "RelativeToolTip": "MultiplyAndAdd.cpp [Read Only]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAQAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-23T11:12:03.11Z",
               "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MultiplyAndAdd.h",
-              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\calc\\Calculator\\MultiplyAndAdd.h",
+              "DocumentMoniker": "E:\\Game dev\\OOP\\Calculator\\MultiplyAndAdd.h",
               "RelativeDocumentMoniker": "MultiplyAndAdd.h",
-              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\calc\\Calculator\\MultiplyAndAdd.h [Read Only]",
+              "ToolTip": "E:\\Game dev\\OOP\\Calculator\\MultiplyAndAdd.h [Read Only]",
               "RelativeToolTip": "MultiplyAndAdd.h [Read Only]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAQAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-23T11:11:18.809Z",
               "EditorCaption": " [Read Only]"
@@ -110,11 +144,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "calculator.cpp",
-              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\calc\\Calculator\\calculator.cpp",
+              "DocumentMoniker": "E:\\Game dev\\OOP\\Calculator\\calculator.cpp",
               "RelativeDocumentMoniker": "calculator.cpp",
-              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\calc\\Calculator\\calculator.cpp [Read Only]",
+              "ToolTip": "E:\\Game dev\\OOP\\Calculator\\calculator.cpp [Read Only]",
               "RelativeToolTip": "calculator.cpp [Read Only]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-23T11:10:26.725Z",
               "EditorCaption": " [Read Only]"

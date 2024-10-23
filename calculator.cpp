@@ -1,4 +1,8 @@
+#include "MultiplyAndAdd.h"
+#include "powermodulus.h"
+#include "subsum.h"
 #include <iostream>
+
 using namespace std
 
 int main() {
@@ -8,6 +12,7 @@ int main() {
 	switch (choice)
 	{
 	case 1: {
+		sum(num1, num2);
 		break;
 	}
 	case 2: {

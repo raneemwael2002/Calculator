@@ -1,9 +1,7 @@
-﻿  MultiplyAndAdd.cpp
-/Calculator/MultiplyAndAdd.cpp(1,1): error C1083: Cannot open source file: '..\..\Calculator\MultiplyAndAdd.cpp': No such file or directory
-  (compiling source file '/Calculator/MultiplyAndAdd.cpp')
-  
-  Calculator2.cpp
+﻿  Calculator2.cpp
+  MultiplyAndAdd.cpp
   powermodulus.cpp
   subsum.cpp
   Generating Code...
 E:\Game dev\OOP\Calculator\Calculator2\Calculator2.cpp(56,1): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  Calculator2.vcxproj -> E:\Game dev\OOP\Calculator\x64\Debug\Calculator2.exe

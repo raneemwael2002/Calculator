@@ -18,30 +18,27 @@
     <ClCompile Include="Calculator2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Calculator\MultiplyAndAdd.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Calculator\powermodulus.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Calculator\subsum.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="subsum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="powermodulus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiplyAndAdd.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Calculator\MultiplyAndAdd.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Calculator\powermodulus.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
     <ClInclude Include="..\..\Calculator\subsum.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="subsum.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="powermodulus.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiplyAndAdd.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

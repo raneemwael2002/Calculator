@@ -127,8 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Calculator\MultiplyAndAdd.cpp" />
     <ClCompile Include="Calculator2.cpp" />
+    <ClCompile Include="MultiplyAndAdd.cpp" />
     <ClCompile Include="powermodulus.cpp" />
     <ClCompile Include="subsum.cpp" />
   </ItemGroup>
